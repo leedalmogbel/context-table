@@ -1,0 +1,27 @@
+{
+  "name": "context-table",
+  "version": "1.0.0",
+  "description": "backend technical exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://leedalmogbel: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@github.com/leedalmogbel/context-table.git"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Leed Almogbel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leedalmogbel/context-table/issues"
+  },
+  "homepage": "https://github.com/leedalmogbel/context-table#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
