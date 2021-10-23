@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-let port = process.env.NODE_PORT || 8000;
+let port = process.env.NODE_PORT || 7000;
 const routes = require('./routes.js');
 
 app.get('/', (req, res) => res.send('Ping!!!'));
